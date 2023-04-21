@@ -8,7 +8,8 @@ Linked lists are basically of four types:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Singly Linked_list:- In singly Linked_list, there is a connected chain of nodes such that each node contains data field and a pointer or object reference for storing the refernce of the next node. This lists can be traversed only in one direction(from head to tail) and cannot be traversed backward.
 
-![singly-linked-list-removebg-preview](https://user-images.githubusercontent.com/131320569/233599597-e640afa4-c99e-44cb-a28f-daffba9ed273.png)
+![singly-linked-list-removebg-preview](https://user-images.githubusercontent.com/131320569/233600124-a9e05dcc-2c3a-4741-800c-39b0bd4fbbd6.png)
+
 
 
 2. Doubly Linked_list:- In doubly Linked_list, there is connected chain of nodes such that each node has three fields, the data field, and two pointers or object references, one for the reference of previous node and other for the reference of the next node. Unlike Singly Linked List, this type of linked list can be traversed in both the directions (from head to tail and from tail to head).
