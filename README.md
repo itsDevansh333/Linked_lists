@@ -13,6 +13,10 @@ Linked lists are basically of four types:
 
 2. Doubly Linked_list:- In doubly Linked_list, there is connected chain of nodes such that each node has three fields, the data field, and two pointers or object references, one for the reference of previous node and other for the reference of the next node. Unlike Singly Linked List, this type of linked list can be traversed in both the directions (from head to tail and from tail to head).
 
+
+![DLL-removebg-preview](https://user-images.githubusercontent.com/131320569/233598628-85939937-b69f-41eb-99be-43b6a76f5fa3.png)
+
+
 3. Singly Circular Linked_List:- A singly circular linked list is a connected chain of nodes exactly like the normal singly linked list. The only difference between singly linked list and singly circular linked is that the next address pointer of object refernce of last node refers to the first node (Head Node) of the list.
 
 4. Doubly Circular Linked_List:- A doubly circular linked list is a connected chain of nodes exactly like normal doubly linked list but the difference is that the last node of the list refers to the head node and head node's previous reference points to last node.
