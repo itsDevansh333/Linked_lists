@@ -20,4 +20,10 @@ Linked lists are basically of four types:
 
 3. Singly Circular Linked_List:- A singly circular linked list is a connected chain of nodes exactly like the normal singly linked list. The only difference between singly linked list and singly circular linked is that the next address pointer of object refernce of last node refers to the first node (Head Node) of the list.
 
+![singly-Circular-Linked-List-768x384-removebg-preview](https://user-images.githubusercontent.com/131320569/233660090-2bd25944-6903-4618-a4d9-066d3dbef777.png)
+
+
 4. Doubly Circular Linked_List:- A doubly circular linked list is a connected chain of nodes exactly like normal doubly linked list but the difference is that the last node of the list refers to the head node and head node's previous reference points to last node.
+
+![doubly-circular_linked_list-removebg-preview](https://user-images.githubusercontent.com/131320569/233660343-aa9911ec-a659-4674-8a5d-e225e355d575.png)
+
