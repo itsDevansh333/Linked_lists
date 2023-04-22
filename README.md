@@ -29,12 +29,12 @@ Linked lists are basically of four types:
 
 There are basically three types of operartions involved in linked lists.<br>
     1. Insertion<br>
-        a. insertion at head<br>
-        b. insertion at tail<br>
-        c. insertion in between two nodes<br>
+        ---> insertion at head<br>
+        ---> insertion at tail<br>
+        ---> insertion in between two nodes<br><br>
     2. Deletion<br>
-        a. deletion of head node<br>
-        b. deletion of last node<br>
-        3. deletion of a random node<br>
+        ---> deletion of head node<br>
+        ---> deletion of last node<br>
+        ---> deletion of a random node<br><br>
     3. traversal
 
