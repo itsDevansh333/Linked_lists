@@ -5,7 +5,7 @@ Linked lists are basically of four types:
     2. doubly linked_list
     3. circular linked_list
     4. doubly circular linked_list<br>
------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Singly Linked_list:- In singly Linked_list, there is a connected chain of nodes such that each node contains data field and a pointer or object reference for storing the refernce of the next node. This lists can be traversed only in one direction(from head to tail) and cannot be traversed backward.
 
 ![singly-linked-list-removebg-preview](https://user-images.githubusercontent.com/131320569/233600124-a9e05dcc-2c3a-4741-800c-39b0bd4fbbd6.png)
@@ -29,9 +29,9 @@ Linked lists are basically of four types:
 
 There are basically three types of operartions involved in linked lists.
     1. Insertion<br>
-        a. insertion at head<br>
-        b. insertion at tail<br>
-        c. insertion in between two nodes<br>
+             a. insertion at head<br>
+             b. insertion at tail<br>
+             c. insertion in between two nodes<br>
     2. Deletion<br>
         a. deletion of head node<br>
         b. deletion of last node<br>
