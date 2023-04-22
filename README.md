@@ -27,3 +27,14 @@ Linked lists are basically of four types:
 
 ![doubly-circular_linked_list-removebg-preview](https://user-images.githubusercontent.com/131320569/233660343-aa9911ec-a659-4674-8a5d-e225e355d575.png)
 
+There are basically three types of operartions involved in linked lists.
+    1. Insertion
+        a. insertion at head
+        b. insertion at tail
+        c. insertion in between two nodes
+    2. Deletion
+        a. deletion of head node
+        b. deletion of last node
+        3. deletion of a random node
+    3. traversal
+
