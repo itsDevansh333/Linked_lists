@@ -66,6 +66,5 @@ public class Singly_Linked_List_creation {
         {
             System.out.println("The list is empty: ");
         }
-        //return head;
     }
 }
