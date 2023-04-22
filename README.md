@@ -36,6 +36,5 @@ There are basically three types of operartions involved in linked lists.<br>
         ---> deletion of head node<br>
         ---> deletion of last node<br>
         ---> deletion of a random node<br><br>
-        
     3. traversal
 
