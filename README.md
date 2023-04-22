@@ -29,9 +29,9 @@ Linked lists are basically of four types:
 
 There are basically three types of operartions involved in linked lists.
     1. Insertion<br>
-      <p>    a. insertion at head<br>
-             b. insertion at tail<br>
-             c. insertion in between two nodes<br></p>
+        <p>     a. insertion at head<br></p>
+        <p>     b. insertion at tail<br></p>
+        <p>     c. insertion in between two nodes<br></p>
     2. Deletion<br>
         a. deletion of head node<br>
         b. deletion of last node<br>
