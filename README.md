@@ -4,7 +4,7 @@ Linked lists are basically of four types:
     1. singly linked_list
     2. doubly linked_list
     3. circular linked_list
-    4. doubly circular linked_list
+    4. doubly circular linked_list<br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Singly Linked_list:- In singly Linked_list, there is a connected chain of nodes such that each node contains data field and a pointer or object reference for storing the refernce of the next node. This lists can be traversed only in one direction(from head to tail) and cannot be traversed backward.
 
