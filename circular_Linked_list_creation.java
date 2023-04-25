@@ -50,7 +50,7 @@ public class circular_Linked_list_creation {
         node current=head;
         while(current.next!=head)
         {
-            System.out.println(current.data+" ");
+            System.out.print(current.data+" ");
             current=current.next;
         }
         System.out.println(current.data);
